@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/Controller/Controller.cpp
+Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/Controller/Controller.h
+../structures/Stack/Stack.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Stack/Stack.h
+../structures/Queue/Queue.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Queue/Queue.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/Controller/Controller.h
+../structures/List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/List.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/main.cpp
+iostream
+-
+structures/List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/List.h
+Controller/Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/Controller/Controller.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/List.h
+string
+-
+Node/Node.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Node/Node.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Node/Node.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Queue/Queue.h
+../List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/List.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/Stack/Stack.h
+../List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/StackAndQueue/structures/List.h
+
